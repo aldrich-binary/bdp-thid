@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 const members = [
   {
     name: "Roberto Gil Zuarth",
@@ -23,22 +21,22 @@ const members = [
     link: "#",
   },
   {
-    name: "Abogado Senior",
-    role: "Especialista en Derecho Constitucional",
+    name: "Gonzalo José Bolio Benitez",
+    role: "Abogado Senior - Litigio y Consultoría",
     avatar:
       "https://images.unsplash.com/photo-1733348137479-2e726d326d9b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
     link: "#",
   },
   {
-    name: "Abogado Senior",
-    role: "Especialista en Derecho Energético",
+    name: "José Antonio Montes",
+    role: "Asociado Líder - Área de Energía",
     avatar:
       "https://images.unsplash.com/photo-1758518729459-235dcaadc611?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1631",
     link: "#",
   },
   {
-    name: "Abogado Senior",
-    role: "Especialista en Derecho Regulatorio",
+    name: "María Fernanda Chávez Quiroz",
+    role: "Asociada - Litigio Constitucional",
     avatar:
       "https://images.unsplash.com/photo-1623880840102-7df0a9f3545b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=764",
     link: "#",
@@ -54,16 +52,18 @@ export default function TeamSection() {
         </span>
         <div className="mt-12 gap-4 sm:grid sm:grid-cols-2 md:mt-24">
           <div className="sm:w-2/5">
-            <h2 className="text-3xl font-bold sm:text-4xl">
+            <h2 className="text-3xl font-bold sm:text-4xl" id="team">
               Nuestro equipo experto
             </h2>
           </div>
           <div className="mt-6 sm:mt-0">
             <p>
-              Nuestro equipo está compuesto por profesionales con amplia
-              trayectoria en el sector público y privado, incluyendo socios y
-              asociados con experiencia en derecho constitucional,
-              administrativo, corporativo y energético.
+              BDP cuenta con un equipo de profesionales del derecho con una
+              amplia trayectoria en la práctica del derecho público y
+              disciplinas relacionadas. Nuestros socios fundadores y asociados
+              han desempeñado cargos de alta responsabilidad en el sector
+              público y han liderado proyectos clave de transformación legal en
+              México.
             </p>
           </div>
         </div>

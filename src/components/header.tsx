@@ -8,8 +8,9 @@ import { cn } from "@/lib/utils";
 import { ModeToggle } from "./shared/providers/ThemeModetoggle";
 
 const menuItems = [
-  { name: "Features", href: "#content" },
-  { name: "About", href: "/" },
+  { name: "Servicios", href: "#content" },
+  { name: "Equipo", href: "#team" },
+  { name: "Contacto", href: "#contact" },
 ];
 
 export const HeroHeader = () => {
@@ -95,7 +96,7 @@ export const HeroHeader = () => {
                   className="items-center"
                 >
                   <Link href="#contact">
-                    <span>Contactanos</span>
+                    <span>Contáctanos</span>
                   </Link>
                 </Button>
               </div>

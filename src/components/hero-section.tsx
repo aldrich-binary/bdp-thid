@@ -92,7 +92,7 @@ export default function HeroSection() {
                     className="hover:bg-background dark:hover:border-t-border bg-muted group mx-auto flex w-fit items-center gap-4 rounded-full border p-1 pl-4 shadow-md shadow-zinc-950/5 transition-colors duration-300 dark:border-t-white/5 dark:shadow-zinc-950"
                   >
                     <span className="text-foreground text-sm">
-                      Especialistas en Derecho Público y Litigio
+                      Especialistas en Derecho Público y Litigio Estratégico
                     </span>
                     <span className="dark:border-background block h-4 w-0.5 border-l bg-white dark:bg-zinc-700"></span>
 
@@ -115,7 +115,7 @@ export default function HeroSection() {
                   as="h1"
                   className="mx-auto mt-8 max-w-4xl text-balance text-5xl max-md:font-semibold md:text-7xl lg:mt-16 xl:text-[5.25rem]"
                 >
-                  Soluciones Legales Estratégicas para el Derecho Público
+                  Liderazgo en Derecho Público y Litigio Estratégico
                 </TextEffect>
                 <TextEffect
                   per="line"
@@ -125,9 +125,9 @@ export default function HeroSection() {
                   as="p"
                   className="mx-auto mt-8 max-w-2xl text-balance text-lg"
                 >
-                  BDP es una firma especializada en litigio y consultoría
-                  multidisciplinaria en derecho público, ofreciendo soluciones
-                  estratégicas y de alta calidad.
+                  BDP es una firma boutique que integra litigio, derecho
+                  regulatorio y consultoría en política pública, con un equipo
+                  de profesionales de amplia trayectoria en derecho público.
                 </TextEffect>
 
                 <AnimatedGroup
@@ -144,7 +144,7 @@ export default function HeroSection() {
                   }}
                   className="mt-12 flex flex-col md:flex-row items-center justify-center gap-2"
                 >
-                  <section className="flex flex-col md:flow-col  gap-3  justify-center items-center">
+                  <section className="flex flex-col md:flex-row gap-3 justify-center items-center">
                     <div
                       key={1}
                       className="bg-foreground/10   rounded-[calc(var(--radius-xl)+0.125rem)] border p-0.5"
@@ -156,7 +156,7 @@ export default function HeroSection() {
                       >
                         <Link href="#content">
                           <span className="text-nowrap">
-                            Conoce Nuestros Servicios
+                            Conoce Nuestras Áreas de Práctica
                           </span>
                         </Link>
                       </Button>
