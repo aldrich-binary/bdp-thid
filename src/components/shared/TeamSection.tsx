@@ -24,14 +24,14 @@ const members = [
     name: "Gonzalo José Bolio Benitez",
     role: "Abogado Senior - Litigio y Consultoría",
     avatar:
-      "https://images.unsplash.com/photo-1733348137479-2e726d326d9b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+      "https://images.unsplash.com/photo-1659353220482-554773c2f7fa?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1631",
     link: "#",
   },
   {
     name: "José Antonio Montes",
     role: "Asociado Líder - Área de Energía",
     avatar:
-      "https://images.unsplash.com/photo-1758518729459-235dcaadc611?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1631",
+      "https://images.unsplash.com/photo-1640531005390-38bd92755d6a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
     link: "#",
   },
   {
